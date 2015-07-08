@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:layout_gravity="right"
+    android:gravity="right"
+    android:padding="10dp" >
+
+    <TableLayout
+        android:id="@+id/finalStageTableLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textViewFinal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="8dp"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:padding="15dp"
+        android:background="#e8f0f5"
+        android:textSize="16sp"
+        android:text="" />
+
+</LinearLayout>

@@ -1,0 +1,153 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+ 
+#Brazil#3#2#0#1#6#
+#Norway#3#1#2#0#5#
+
+#Morocco#3#1#1#1#4#
+#Scotland#3#0#1#2#1#
+
+
+#Result#
+#Brazil#2#1#Scotland#
+#Morocco#2#2#Norway#
+#Scotland#1#1#Norway#
+#Brazil#3#0#Morocco#
+#Brazil#1#2#Norway#
+#Scotland#0#3#Morocco#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#Italy#3#2#1#0#7#
+#Chile#3#0#3#0#3#
+
+#Austria#3#0#2#1#2#
+#Cameroon#3#0#2#1#2#
+
+#Result#
+#Italy#2#2#Chile#
+#Cameroon#1#1#Austria#
+#Chile#1#1#Austria#
+#Italy#3#0#Cameroon#
+#Italy#2#1#Austria#
+#Chile#1#1#Cameroon#
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+ 
+#France#3#3#0#0#9#
+#Denmark#3#1#1#1#4#
+
+#South Africa#3#0#2#1#2#
+#Saudi Arabia#3#0#1#2#1#
+
+#Result#
+#Saudi Arabia#0#1#Denmark#
+#France#3#0#South Africa#
+#South Africa#1#1#Denmark#
+#France#4#0#Saudi Arabia#
+#France#2#1#Denmark#
+#South Africa#2#2#Saudi Arabia#
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+ 
+#Nigeria#3#2#0#1#6#
+#Paraguay#3#1#2#0#5#
+
+#Spain#3#1#1#1#4#
+#Bulgaria#3#0#1#2#1#
+
+#Result#
+#Paraguay#0#0#Bulgaria#
+#Spain#2#3#Nigeria#
+#Nigeria#1#0#Bulgaria#
+#Spain#0#0#Paraguay#
+#Nigeria#1#3#Paraguay#
+#Spain#6#1#Bulgaria#
+
+##################################################
+
+#Group 5#
+#Team#Pld#W#D#L#Pts#
+ 
+#Netherlands#3#1#2#0#5#
+#Mexico#3#1#2#0#5#
+
+#Belgium#3#0#3#0#3#
+#South Korea#3#0#1#2#1#
+
+#Result#
+#South Korea#1#3#Mexico#
+#Netherlands#0#0#Belgium#
+#Belgium#2#2#Mexico#
+#Netherlands#5#0#South Korea#
+#Netherlands#2#2#Mexico#
+#Belgium#1#1#South Korea#
+
+##################################################
+
+#Group 6#
+#Team#Pld#W#D#L#Pts#
+ 
+#Germany#3#2#1#0#7#
+#Yugoslavia#3#2#1#0#7#
+
+#Iran#3#1#0#2#3#
+#United States#3#0#0#3#0#
+
+#Result#
+#Yugoslavia#1#0#Iran#
+#Germany#2#0#United States#
+#Germany#2#2#Yugoslavia#
+#United States#1#2#Iran#
+#United States#0#1#Yugoslavia#
+#Germany#2#0#Iran#
+
+##################################################
+
+#Group 7#
+#Team#Pld#W#D#L#Pts#
+ 
+#Romania#3#2#1#0#7#
+#England#3#2#0#1#6#
+
+#Colombia#3#1#0#2#3#
+#Tunisia#3#0#1#2#1#
+
+
+#Result#
+#England#2#0#Tunisia#
+#Romania#1#0#Colombia#
+#Colombia#1#0#Tunisia#
+#Romania#2#1#England#
+#Colombia#0#2#England#
+#Romania#1#1#Tunisia#
+
+##################################################
+
+#Group 8#
+#Team#Pld#W#D#L#Pts#
+ 
+#Argentina#3#3#0#0#9#
+#Croatia#3#2#0#1#6#
+
+#Jamaica#3#1#0#2#3#
+#Japan#3#0#0#3#0#
+
+#Result#
+#Argentina#1#0#Japan#
+#Jamaica#1#3#Croatia#
+#Japan#0#1#Croatia#
+#Argentina#5#0#Jamaica#
+#Argentina#1#0#Croatia#
+#Japan#1#2#Jamaica#
+
+##################################################

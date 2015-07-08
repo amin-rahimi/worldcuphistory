@@ -1,0 +1,79 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+
+#England#3#2#1#0#5#
+#Uruguay#3#1#2#0#4#
+
+#Mexico#3#0#2#1#2#
+#France#3#0#1#2#1#
+
+#Result#
+#England#0#0#Uruguay#
+#France#1#1#Mexico#
+#Uruguay#2#1#France#
+#England#2#0#Mexico#
+#Mexico#0#0#Uruguay#
+#England#2#0#France#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#West Germany#3#2#1#0#5#
+#Argentina#3#2#1#0#5#
+
+#Spain#3#1#0#2#2#
+#Switzerland#3#0#0#3#0#
+
+#Result#
+#West Germany#5#0#Switzerland#
+#Argentina#2#1#Spain#
+#Spain#2#1#Switzerland#
+#Argentina#0#0#West Germany#
+#Argentina#2#0#Switzerland#
+#West Germany#2#1#Spain#
+
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+
+#Portugal#3#3#0#0#6#
+#Hungary#3#2#0#1#4#
+
+#Brazil#3#1#0#2#2#
+#Bulgaria#3#0#0#3#0#
+
+#Result#
+#Brazil#2#0#Bulgaria#
+#Portugal#3#1#Hungary#
+#Hungary#3#1#Brazil#
+#Portugal#3#0#Bulgaria#
+#Portugal#3#1#Brazil#
+#Hungary#3#1#Bulgaria#
+
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+
+#Soviet Union#3#3#0#0#6#
+#North Korea#3#1#1#1#3#
+
+#Italy#3#1#0#2#2#
+#Chile#3#0#1#2#1#
+
+#Result#
+#Soviet Union#3#0#North Korea#
+#Italy#2#0#Chile#
+#Chile#1#1#North Korea#
+#Soviet Union#1#0#Italy#
+#North Korea#1#0#Italy#
+#Soviet Union#2#1#Chile#
+
+##################################################
+
+

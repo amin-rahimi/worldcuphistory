@@ -1,0 +1,36 @@
+﻿#مرحله حذفی#
+
+#یک‌هشتم پایانی – یک‌حذفی#
+#Italy#2#1#Norway#
+#Czechoslovakia#3#0#Netherlands#
+#Germany#1#1#Switzerland#
+#Switzerland#4#2#Germany# (بازی دوباره)#
+#Austria#Sweden#(اتریش در برابر سوئد بازی نکرد.)#
+#Brazil#6#5#Poland#
+#Romania#3#3#Cuba#
+#Cuba#2#1#Romania# (بازی دوباره)#
+#France#3#1#Belgium#
+#Hungary#6#0#Dutch East Indies#
+
+#یک‌چهارم پایانی#
+#Sweden#8#0#Cuba#
+#Brazil#1#1#Czechoslovakia#
+#Brazil#2#1#Czechoslovakia#(بازی دوباره)#
+#Italy#3#1#France#
+#Hungary#2#0#Switzerland#
+
+#نیمه‌پایانی#
+#Hungary#5#1#Sweden#
+#Italy#2#1#Brazil#
+
+#رده‌بندی#
+#Brazil#4#2#Sweden#
+
+#پایانی#
+#پاریس – ۱۹ ژوئن ۱۹۳۸#
+#Italy#4#2#Hungary#
+#بازیکنان ایتالیا: اولیویری؛ فونی، راوا؛ سرانتونی، آندرئولو، لوکاتلی؛ بیاواتی، مه‌آتزا (کاپیتان)، پیولا، فراری، کولائوسی#
+#بازیکنان مجارستان: ژابو؛ پولگار، بیرو؛ ژالای، ژوش، لازار؛ ساس، وینژه، ساروسی (کاپیتان)، ژنگلر، تیتکوس#
+#گل: ۲ کولائوسی، ۲ پیولا (ایتالیا) – تیتکوس، ساروسی (مجارستان)#
+#داور: کاپدیول (فرانسه)#
+#تماشاگر: ۵۰۰۰۰ نفر#

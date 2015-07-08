@@ -1,0 +1,86 @@
+﻿#برزیل#Brazil#
+#آلمان#Germany#
+#ایتالیا#Italy#
+#آرژانتین#Argentina#
+#مکزیک#Mexico#
+#انگلیس#England#
+#اسپانیا#Spain#
+#فرانسه#France#
+#یوگوسلاوی#Yugoslavia#
+#بلژیک#Belgium#
+#سوئد#Sweden#
+#اروگوئه#Uruguay#
+#روسیه#Russia#
+#ایالات متحده آمریکا#United States#
+#سوئیس#Switzerland#
+#هلند#Netherlands#
+#مجارستان#Hungary#
+#جمهوری چک#Czech Republic#
+#اسکاتلند#Scotland#
+#پاراگوئه#Paraguay#
+#کره جنوبی#South Korea#
+#شیلی#Chile#
+#رومانی#Romania#
+#لهستان#Poland#
+#بلغارستان#Bulgaria#
+#اتریش#Austria#
+#کامرون#Cameroon#
+#پرتغال#Portugal#
+#پرو#Peru#
+#نیجریه#Nigeria#
+#تونس#Tunisia#
+#عربستان سعودی#Saudi Arabia#
+#مراکش#Morocco#
+#ژاپن#Japan#
+#دانمارک#Denmark#
+#کلمبیا#Colombia#
+#جمهوری ایرلند#Republic of Ireland#
+#نروژ#Norway#
+#ایرلند شمالی#Northern Ireland#
+#ایران#Iran#
+#کرواسی#Croatia#
+#کاستاریکا#Costa Rica#
+#آفریقای جنوبی#South Africa#
+#الجزایر#Algeria#
+#استرالیا#Australia#
+#یونان#Greece#
+#غنا#Ghana#
+#السالوادور#El Salvador#
+#مصر#Egypt#
+#اکوادور#Ecuador#
+#ساحل عاج#Ivory Coast#
+#اسلوونی#Slovenia#
+#نیوزیلند#New Zealand#
+#هندوراس#Honduras#
+#کره شمالی#North Korea#
+#ترکیه#Turkey#
+#عراق#Iraq#
+#اندونزی#Indonesia#
+#هائیتی#Haiti#
+#امارات متحده عربی#United Arab Emirates#
+#اوکراین#Ukraine#
+#ترینیداد و توباگو#Trinidad and Tobago#
+#آلمان شرقی#East Germany#
+#جمهوری دموکراتیک کنگو#Congo DR#
+#چین#China PR#
+#کانادا#Canada#
+#آنگولا#Angola#
+#ولز#Wales#
+#توگو#Togo#
+#سنگال#Senegal#
+#کویت#Kuwait#
+#جامائیکا#Jamaica#
+#اسرائیل#Israel#
+#آلمان غربی#West Germany#
+#شوروی#Soviet Union#
+#چکسلاواکی#Czechoslovakia#
+#صربستان#Serbia#
+#صربستان و مونته نگرو#Serbia and Montenegro#
+#هند شرقی#Dutch East Indies#
+#هند#India#
+#انصراف#withdrew#
+#زئیر#Zaire#
+#بولیوی#Bolivia#
+#اسلواکی#Slovakia#
+#کوبا#Cuba#
+#بوسنی#Bosnia#

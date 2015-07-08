@@ -1,0 +1,130 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+ 
+#Argentina#3#2#1#0#5#
+#Italy#3#1#2#0#4#
+#Bulgaria#3#0#2#1#2#
+
+#South Korea#3#0#1#2#1#
+
+#Result#
+#Bulgaria#1#1#Italy#
+#Argentina#3#1#South Korea#
+#Italy#1#1#Argentina#
+#South Korea#1#1#Bulgaria#
+#South Korea#2#3#Italy#
+#Argentina#2#0#Bulgaria#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#Mexico#3#2#1#0#5#
+#Paraguay#3#1#2#0#4#
+#Belgium#3#1#1#1#3#
+
+#Iraq#3#0#0#3#0#
+
+#Result#
+#Belgium#1#2#Mexico#
+#Paraguay#1#0#Iraq#
+#Mexico#1#1#Paraguay#
+#Iraq#1#2#Belgium#
+#Paraguay#2#2#Belgium#
+#Iraq#0#1#Mexico#
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+ 
+#Soviet Union#3#2#1#0#5#
+#France#3#2#1#0#5#
+
+#Hungary#3#1#0#2#2#
+#Canada#3#0#0#3#0#
+
+#Result#
+#Canada#0#1#France#
+#Soviet Union#6#0#Hungary#
+#France#1#1#Soviet Union#
+#Hungary#2#0#Canada#
+#Hungary#0#3#France#
+#Soviet Union#2#0#Canada#
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+ 
+#Brazil#3#3#0#0#6#
+#Spain#3#2#0#1#4#
+
+#Northern Ireland#3#0#1#2#1#
+#Algeria#3#0#1#2#1#
+
+#Result#
+#Spain#0#1#Brazil#
+#Algeria#1#1#Northern Ireland#
+#Brazil#1#0#Algeria#
+#Northern Ireland#1#2#Spain#
+#Northern Ireland#0#3#Brazil#
+#Algeria#0#3#Spain#
+
+##################################################
+
+#Group 5#
+#Team#Pld#W#D#L#Pts#
+ 
+#Denmark#3#3#0#0#6#
+#West Germany#3#1#1#1#3#
+#Uruguay#3#0#2#1#2#
+
+#Scotland#3#0#1#2#1#
+
+
+#Result#
+#Uruguay#1#1#West Germany#
+#Scotland#0#1#Denmark#
+#West Germany#2#1#Scotland#
+#Denmark#6#1#Uruguay#
+#Denmark#2#0#West Germany#
+#Scotland#0#0#Uruguay#
+
+##################################################
+
+#Group 6#
+#Team#Pld#W#D#L#Pts#
+ 
+#Morocco#3#1#2#0#4#
+#England#3#1#1#1#3#
+#Poland#3#1#1#1#3#
+
+#Portugal#3#1#0#2#2#
+
+#Result#
+#Morocco#0#0#Poland#
+#Portugal#1#0#England#
+#England#0#0#Morocco#
+#Poland#1#0#Portugal#
+#England#3#0#Poland#
+#Portugal#1#3#Morocco#
+
+
+#West Germany#2#1#Spain#
+#Spain#0#0#England#
+
+##################################################
+
+#Ranking of third-placed teams#
+#Group#Team#Pld#W#D#L#Pts#
+
+#2#Belgium#3#1#1#1#3#
+#6#Poland#3#1#1#1#3#
+#1#Bulgaria#3#0#2#1#2#
+#5#Uruguay#3#0#2#1#2#
+#3#Hungary#3#1#0#2#2#
+#4#Northern Ireland#3#0#1#2#1#
+
+##################################################

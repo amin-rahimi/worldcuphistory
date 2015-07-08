@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeee_settings"
+        android:icon="@drawable/ic_action_home"
+        android:showAsAction="always"
+        app:showAsAction="always"
+        android:title="@string/homeee_settings"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+     <item
+        android:id="@+id/desc_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/desc_settings"/>
+
+</menu>

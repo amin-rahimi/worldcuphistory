@@ -1,0 +1,37 @@
+﻿#مرحله حذفی#
+
+#یک‌هشتم پایانی – یک‌حذفی#
+#Italy#7#1#United States#
+#Czechoslovakia#2#1#Romania#
+#Germany#5#2#Belgium#
+#Austria#3#2#France#
+#Spain#3#1#Brazil#
+#Switzerland#3#2#Netherlands#
+#Sweden#3#2#Argentina#
+#Hungary#4#2#Egypt#
+
+#یک‌چهارم پایانی#
+#Austria#2#1#Hungary#
+#Germany#2#1#Sweden#
+#Czechoslovakia#3#2#Switzerland#
+#Italy#1#1#Spain#
+#Italy#1#0#Spain#
+
+#نیمه‌پایانی#
+#Czechoslovakia#3#1#Germany#
+#Italy#1#0#Austria#
+
+#رده‌بندی#
+#Germany#3#2#Austria#
+
+#پایانی#
+#رم – ۱۰ ژوئن ۱۹۳۴#
+#Italy#2#1#Czechoslovakia#
+#بازیکنان ایتالیا: کومبی (کاپیتان)؛ مونزلیو، آلماندی؛ فراریس چهارم، مونتی، برتولینی؛ گوایتا، مه‌آتزا، شیاویو، فراری، ارسی#
+#بازیکنان چکسلواکی: پلانیکا (کاپیتان)؛ زنیسک، ستیروکی؛ کستالک، کامبال، کرچیل؛ یونک، اسوبودا، سوبوتکا، نیدلی، پوچ#
+#گل: ارسی، شیاویو (ایتالیا) – پوچ (چکسلواکی)#
+#داور: اکلیند (سوئد)#
+#تماشاگر: ۵۰۰۰۰ نفر#
+
+
+

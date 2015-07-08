@@ -1,0 +1,34 @@
+﻿#مرحله حذفی#
+
+#یک‌هشتم پایانی – یک‌حذفی#
+#Cameroon#2#1#Colombia#
+#Czechoslovakia#4#1#Costa Rica#
+#Brazil#0#1#Argentina#
+#West Germany#2#1#Netherlands#
+#Republic of Ireland#0(5)#(4)0#Romania#
+#Italy#2#0#Uruguay#
+#Spain#1#2#Yugoslavia#
+#England#1#0#Belgium#
+
+#یک‌چهارم پایانی#
+#Yugoslavia#0(2)#(3)0#Argentina#
+#Italy#1#0#Republic of Ireland#
+#West Germany#1#0#Czechoslovakia#
+#England#3#2#Cameroon#
+
+#نیمه‌پایانی#
+#Italy#1(3)#(4)1#Argentina#
+#West Germany#1(4)#(3)1#England#
+
+#رده‌بندی#
+#Italy#2#1#England#
+
+#پایانی#
+# ۸جولای ۱۹۹۰ - رم #
+#West Germany#1#0#Argentina#
+#گل: آندریایس بره مه (۸۵ - پنالتی)#
+#اخراج: مونزن(۶۵) و ده زوتی(۸۷) از آرژانتین#
+#بازیکنان آلمان غربی: ایلگنر٬ برتولد(رویتر)٬ اوگن تالر٬ کوهلر٬ بوخوالد٬ بره مه٬ هسلر٬ لیتبارسکی٬ ماته ئوس٬ کلینزمن٬ فولر- مربی: رودی فولر#
+#بازیکنان آرژانتین:گویگو چه آ٬ روجری(مونزن)٬ سیمون٬ سنسینی٬ لورنزو٬ سری زوئلا٬ بوروچاگا(کالدرون)٬ باسوالدو٬ تروگلیو٬ ده زوتی٬ مارادونا - مربی: کارلوس بیلاردو#
+#داور:کوده سال مندس(مکزیک)#
+#تماشاگر: 73,603 نفر#

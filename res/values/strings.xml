@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">تاریخچه جام جهانی</string>
+    <string name="action_settings">خروج</string>
+    <string name="desc_settings">توضیحات</string>
+    <string name="homeee_settings">صفحه اصلی</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">جامهای جهانی</string>
+    <string name="drawer_close">بازگشت</string>
+    <string name="worldcup">جام جهانی</string>
+    <string name="country_uruguay">اروگوئه</string>
+    <string name="country_italy">ایتالیا</string>
+    <string name="country_france">فرانسه</string>
+    <string name="country_brazil">برزیل</string>
+    <string name="country_switzerland">سوییس</string>
+    <string name="country_sweden">سوئد</string>
+    <string name="country_chile">شیلی</string>
+    <string name="country_united_kindom">انگلیس</string>
+    <string name="country_mexico">مکزیک</string>
+    <string name="country_germany">آلمان</string>
+    <string name="country_west_germany">آلمان غربی</string>
+    <string name="country_argentina">آرژانتین</string>
+    <string name="country_spain">اسپانیا</string>
+    <string name="country_usa">آمریکا</string>
+    <string name="country_japon_korea">ژاپن و کره جنوبی</string>
+    <string name="country_south_africa">آفریقای جنوبی</string>
+    
+    <string name="table_header_team">تیم</string>
+    <string name="table_header_won">برد</string>
+    <string name="table_header_drawn">مساوی</string>
+    <string name="table_header_lost">باخت</string>
+    <string name="table_header_points">امتیاز</string>
+    
+    <string name="description">توضیحات</string>
+    <string name="records">ترین ها</string>
+    <string name="statictist">امار و ارقام</string>
+    <string name="nontableString">بازی های این جام بصورت تک حذفی انجام شده است</string>
+    
+    
+
+</resources>

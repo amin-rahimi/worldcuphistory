@@ -1,0 +1,66 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+
+#Argentina#3#3#0#0#6#
+
+#Chile#3#2#0#1#4#
+#France#3#1#0#2#2#
+#Mexico#3#0#0#3#0#
+
+#Result#
+#France#4#1#Mexico#
+#Argentina#1#0#France#
+#Chile#3#0#Mexico#
+#Chile#1#0#France#
+#Argentina#6#3#Mexico#
+#Argentina#3#1#Chile#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#Yugoslavia#2#2#0#0#4#
+
+#Brazil#2#1#0#1#2#
+#Bolivia#2#0#0#2#0#
+
+#Result#
+#Yugoslavia#2#1#Brazil#
+#Yugoslavia#4#0#Bolivia#
+#Brazil#4#0#Bolivia#
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+
+#Uruguay#2#2#0#0#4#
+
+#Romania#2#1#0#1#2#
+#Peru#2#0#0#2#0#
+
+#Result#
+#Romania#3#1#Peru#
+#Uruguay#1#0#Peru#
+#Uruguay#4#0#Romania#
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+
+#United States#2#2#0#0#4#
+
+#Paraguay#2#1#0#1#2#
+#Belgium#2#0#0#2#0#
+
+#Result#
+#United States#3#0#Belgium#
+#United States#3#0#Paraguay#
+#Paraguay#1#0#Belgium#
+
+
+##################################################
+
+

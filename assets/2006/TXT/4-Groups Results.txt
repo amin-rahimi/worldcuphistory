@@ -1,0 +1,152 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+ 
+#Germany#3#3#0#0#9#
+#Ecuador#3#2#0#1#6#
+
+#Poland#3#1#0#2#3#
+#Costa Rica#3#0#0#3#0#
+
+
+#Result#
+#Germany#4#2#Costa Rica#
+#Poland#0#2#Ecuador#
+#Germany#1#0#Poland#
+#Ecuador#3#0#Costa Rica#
+#Ecuador#0#3#Germany#
+#Costa Rica#1#2#Poland#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#England#3#2#1#0#7#
+#Sweden#3#1#2#0#5#
+
+#Paraguay#3#1#0#2#3#
+#Trinidad and Tobago#3#0#1#2#1#
+
+#Result#
+#England#1#0#Paraguay#
+#Trinidad and Tobago#0#0#Sweden#
+#England#2#0#Trinidad and Tobago#
+#Sweden#1#0#Paraguay#
+#Sweden#2#2#England#
+#Paraguay#2#0#Trinidad and Tobago#
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+ 
+#Argentina#3#2#1#0#7#
+#Netherlands#3#2#1#0#7#
+
+#Ivory Coast#3#1#0#2#3#
+#Serbia and Montenegro#3#0#0#3#0#
+
+#Result#
+#Argentina#2#1#Ivory Coast#
+#Serbia and Montenegro#0#1#Netherlands#
+#Argentina#6#0#Serbia and Montenegro#
+#Netherlands#2#1#Ivory Coast#
+#Netherlands#0#0#Argentina#
+#Ivory Coast#3#2#Serbia and Montenegro#
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+ 
+#Portugal#3#3#0#0#9#
+#Mexico#3#1#1#1#4#
+
+#Angola#3#0#2#1#2#
+#Iran#3#0#1#2#1#
+
+#Result#
+#Mexico#3#1#Iran#
+#Angola#0#1#Portugal#
+#Mexico#0#0#Angola#
+#Portugal#2#0#Iran#
+#Portugal#2#1#Mexico#
+#Iran#1#1#Angola#
+
+##################################################
+
+#Group 5#
+#Team#Pld#W#D#L#Pts#
+ 
+#Italy#3#2#1#0#7#
+#Ghana#3#2#0#1#6#
+
+#Czech Republic#3#1#0#2#3#
+#United States#3#0#1#2#1#
+
+#Result#
+#United States#0#3#Czech Republic#
+#Italy#2#0#Ghana#
+#Czech Republic#0#2#Ghana#
+#Italy#1#1#United States#
+#Czech Republic#0#2#Italy#
+#Ghana#2#1#United States#
+
+##################################################
+
+#Group 6#
+#Team#Pld#W#D#L#Pts#
+ 
+#Brazil#3#3#0#0#9#
+#Australia#3#1#1#1#4#
+
+#Croatia#3#0#2#1#2#
+#Japan#3#0#1#2#1#
+
+#Result#
+#Australia#3#1#Japan#
+#Brazil#1#0#Croatia#
+#Japan#0#0#Croatia#
+#Brazil#2#0#Australia#
+#Japan#1#4#Brazil#
+#Croatia#2#2#Australia#
+
+##################################################
+
+#Group 7#
+#Team#Pld#W#D#L#Pts#
+ 
+#Switzerland#3#2#1#0#7#
+#France#3#1#2#0#5#
+
+#South Korea#3#1#1#1#4#
+#Togo#3#0#0#3#0#
+
+#Result#
+#South Korea#2#1#Togo#
+#France#0#0#Switzerland#
+#France#1#1#South Korea#
+#Togo#0#2#Switzerland#
+#Togo#0#2#France#
+#Switzerland#2#0#South Korea#
+
+##################################################
+
+#Group 8#
+#Team#Pld#W#D#L#Pts#
+ 
+#Spain#3#3#0#0#9#
+#Ukraine#3#2#0#1#6#
+
+#Tunisia#3#0#1#2#1#
+#Saudi Arabia#3#0#1#2#1#
+
+#Result#
+#Spain#4#0#Ukraine#
+#Tunisia#2#2#Saudi Arabia#
+#Saudi Arabia#0#4#Ukraine#
+#Spain#3#1#Tunisia#
+#Saudi Arabia#0#1#Spain#
+#Ukraine#1#0#Tunisia#
+
+##################################################

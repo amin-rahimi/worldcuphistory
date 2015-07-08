@@ -1,0 +1,75 @@
+#Group 1#
+#Team#Pld#W#D#L#Pts#
+
+#Brazil#2#1#1#0#3#
+#Yugoslavia#2#1#1#0#3#
+
+#France#2#1#0#1#2#
+#Mexico#2#0#0#2#0#
+
+#Result#
+#Brazil#5#0#Mexico#
+#Yugoslavia#1#0#France#
+#Brazil#1#1#Yugoslavia#
+#France#3#2#Mexico#
+
+##################################################
+
+#Group 2#
+#Team#Pld#W#D#L#Pts#
+
+#Hungary#2#2#0#0#4#
+#West Germany#2#1#0#1#2#
+
+#Turkey#2#1#0#1#2#
+#South Korea#2#0#0#2#0#
+
+#Result#
+#West Germany#4#1#Turkey#
+#Hungary#9#0#South Korea#
+#Hungary#8#3#West Germany#
+#Turkey#7#0#South Korea#
+
+#Play-off#
+#West Germany#7#2#Turkey#
+
+##################################################
+
+#Group 3#
+#Team#Pld#W#D#L#Pts#
+
+#Uruguay#2#2#0#0#4#
+#Austria#2#2#0#0#4#
+
+#Czechoslovakia#2#0#0#2#0#
+#Scotland#2#2#0#0#2#0#
+
+#Result#
+#Uruguay#2#0#Czechoslovakia#
+#Austria#1#0#Scotland#
+#Uruguay#7#0#Scotland#
+#Austria#5#0#Czechoslovakia#
+
+##################################################
+
+#Group 4#
+#Team#Pld#W#D#L#Pts#
+
+#England#2#1#1#0#3#
+#Switzerland#2#1#0#1#2#
+
+#Italy#2#1#0#1#2#
+#Belgium#2#0#1#1#1#
+
+#Result#
+#Switzerland#2#1#Italy#
+#England#4#4#Belgium#
+#Italy#4#1#Belgium#
+#England#2#0#Switzerland#
+
+#Play-off#
+#Switzerland#4#1#Italy#
+
+##################################################
+
+
